@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
+### (ELECTRON) Compiles and hot-reloads for development
+```
+npm run electron:serve
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
