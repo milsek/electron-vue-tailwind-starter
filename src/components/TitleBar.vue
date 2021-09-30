@@ -55,7 +55,7 @@ export default {
 			remote.BrowserWindow.getFocusedWindow().maximize()
 		},
 		closeApp () {
-			remote.BrowserWindow.getFocusedWindow().close()
+			remote.BrowserWindow.getFocusedWindow().destroy()
 		}
 	}
 }

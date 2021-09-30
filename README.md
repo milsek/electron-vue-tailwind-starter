@@ -1,10 +1,4 @@
-# electron + vue + tailwind starter project
-
-*+* Includes custom title bar.
-
-Project also uses [vue-font-awesome](https://github.com/FortAwesome/vue-fontawesome) for icons (yes, I said that there would be bloat).
-
-This starter is meant for simple feats such as college projects etc.
+# electron-expense-logger
 
 ## Project setup
 ```
@@ -25,3 +19,6 @@ npm run build
 ```
 npm run electron:serve
 ```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
